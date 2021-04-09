@@ -56,7 +56,7 @@ body {
   color: var(--additional-text-color);
 }
 .contact:hover,
-:focus {
+.contact:focus {
   color: var(--accent-text-color);
 }
 
