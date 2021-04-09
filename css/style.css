@@ -80,8 +80,6 @@ body {
   line-height: 1.88;
 
   border-radius: 4px;
-}
-.pointer {
   cursor: pointer;
 }
 
@@ -137,6 +135,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
+  cursor: pointer;
 }
 .portfolio-button:hover,
 :focus {
